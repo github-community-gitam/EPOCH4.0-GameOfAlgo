@@ -6,7 +6,7 @@ This repository is a collection of supervised and unsupervised machine learning 
 
 | Category              | Algorithm            | Objective                                         | Notebook                   |
 |----------------------|---------------------|--------------------------------------------------|---------------------------|
-| Supervised Learning   | Linear Regression    | Predict continuous values using feature relationships | [linear-regression.ipynb](https://github.com/github-community-gitam/EPOCH4.0-GameOfAlgo/blob/main/supervised-learning/linear-regression.ipynb))   |
+| Supervised Learning   | Linear Regression    | Predict continuous values using feature relationships | [linear-regression.ipynb](https://github.com/github-community-gitam/EPOCH4.0-GameOfAlgo/blob/main/supervised-learning/linear-regression.ipynb)   |
 | Supervised Learning   | Decision Tree        | Perform classification on diabetes dataset       | [decision-tree.ipynb](https://github.com/github-community-gitam/EPOCH4.0-GameOfAlgo/blob/main/supervised-learning/decision-tree.ipynb)       |
 | Unsupervised Learning | K-Means Clustering   | Group similar data points into clusters          | [k-means.ipynb](https://github.com/github-community-gitam/EPOCH4.0-GameOfAlgo/blob/main/unsupervised-learning/k-means.ipynb)            |
 | Unsupervised Learning | DBSCAN               | Detect clusters and noise based on density       | [dbscan.ipynb](https://github.com/github-community-gitam/EPOCH4.0-GameOfAlgo/blob/main/unsupervised-learning/dbscan.ipynb)              |
